@@ -18,10 +18,14 @@ const styles = StyleSheet.create({
     backgroundColor: colors.primary,
     alignItems: "center",
     justifyContent: "center",
+    borderBottomLeftRadius: 15,
+    borderBottomRightRadius: 15,
   },
   headerTitle: {
     color: "black",
     fontSize: 18,
+    paddingTop: 20,
+    fontFamily: "open-sans-bold",
   },
 });
 
