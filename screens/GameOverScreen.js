@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import {
-  Button,
   Dimensions,
   Image,
+  SafeAreaView,
   ScrollView,
   StyleSheet,
   Text,

@@ -5,6 +5,7 @@ import {
   Dimensions,
   Keyboard,
   KeyboardAvoidingView,
+  Platform,
   ScrollView,
   StyleSheet,
   TouchableWithoutFeedback,
